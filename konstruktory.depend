@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1789995432 source:c:\users\admin\desktop\konstruktory\main.cpp
+	<iostream>
+	"samochody.h"
+
+1789995378 c:\users\admin\desktop\konstruktory\samochody.h
+	<string>
+
+1789995386 source:c:\users\admin\desktop\konstruktory\samochody.cpp
+	"samochody.h"
+	<iostream>
+
